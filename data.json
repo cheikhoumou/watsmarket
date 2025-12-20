@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": " متجر ",
+        "domain": "watsmarket.blogspot.com"
+    },
+    {
+        "id": 2,
+        "name": "تقنية بلس",
+        "domain": "tech-plus.net"
+    },
+    {
+        "id": 3,
+        "name": "مدونة المسافر",
+        "domain": "traveler-blog.org"
+    },
+    {
+        "id": 4,
+        "name": "أكاديمية المعرفة",
+        "domain": "knowledge-academy.edu"
+    },
+    {
+        "id": 5,
+        "name": "عالم الطبخ",
+        "domain": "cooking-world.me"
+    },
+    {
+        "id": 6,
+        "name": "صحيفة اليوم",
+        "domain": "al-yaum-news.com"
+    },
+    {
+        "id": 7,
+        "name": "منصة إبداع",
+        "domain": "ebda3-platform.io"
+    },
+    {
+        "id": 8,
+        "name": "خدمات الدفع السريع",
+        "domain": "fast-pay.co"
+    },
+    {
+        "id": 9,
+        "name": "مؤسسة الرؤية",
+        "domain": "vision-foundation.sa"
+    },
+    {
+        "id": 10,
+        "name": "سوق المستعمل",
+        "domain": "used-market.info"
+    }
+]
